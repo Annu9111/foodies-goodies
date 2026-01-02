@@ -1,0 +1,72 @@
+/* css reset  */
+*{
+    margin: 0px;
+    padding:0px;
+}
+
+/* css variable */ 
+:root{
+    --navbar-height:59px;
+}
+
+/* navigation bar  */
+#navbar{
+    display:flex;
+    align-items: center;
+}
+
+/* navigation bar: logo and image  */
+#logo{
+    margin:10px 20px;
+
+}
+#logo img{
+    height:70px;
+    width:70px;
+    margin:5px 5px; 
+    border: 2px solid grey;
+    border-radius: 70px;
+
+}
+
+/* navigation bar: list styling */
+#navbar ul{
+    display: flex;
+}
+#navbar{
+    position:relative;
+}
+#navbar::before{
+    content: "";
+    background-color: black;
+    position:absolute;
+    height:100%;
+    width:100%;
+    z-index: -1;
+    opacity: 0.6;
+}
+#navbar ul li{
+    list-style: none;
+    font-size: 1.3rem;
+}
+#navbar ul li a{
+    display:block;
+    padding:3px 17px;
+    border-radius: 3px;
+    text-decoration: none;
+    color:white;
+}
+#navbar ul li a:hover{
+    color:black;
+    background-color: white;
+    border-radius: 10px;
+}
+
+/* home section  */
+#home{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
