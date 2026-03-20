@@ -31,5 +31,9 @@ Foodies-Goodies/
 │── images/
 │── README.md
 ```
+## 📸 Screenshot
 
+![Game Screenshot](screenshot.png)
+
+---
 
