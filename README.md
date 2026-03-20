@@ -32,32 +32,4 @@ Foodies-Goodies/
 │── README.md
 ```
 
----
 
-```
-
-2. Open the folder
-
-3. Run `index.html` in your browser
-
----
-
-## ✨ Future Improvements
-
-* Add JavaScript for interactivity
-* Add backend for real food ordering
-* Improve responsiveness for all devices
-* Add animations and transitions
-
----
-
-## 👨‍💻 Author
-
-**Annu Soni**
-Made with ❤️ using HTML & CSS
-
----
-
-## 📜 License
-
-This project is free to use for learning purposes.
