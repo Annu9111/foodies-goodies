@@ -4,6 +4,11 @@ A modern and responsive food website built using **HTML & CSS**, designed to sho
 
 ---
 
+## 🚀 Live Demo
+👉 https://stone-paper-scissor-iota-nine.vercel.app/
+
+---
+
 ## 🚀 Features
 
 * 🏠 Beautiful homepage with hero section
